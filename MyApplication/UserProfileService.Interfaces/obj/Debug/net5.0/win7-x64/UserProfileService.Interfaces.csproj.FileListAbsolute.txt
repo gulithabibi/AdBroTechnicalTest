@@ -1,0 +1,12 @@
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\bin\Debug\net5.0\win7-x64\UserProfileService.Interfaces.deps.json
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\bin\Debug\net5.0\win7-x64\UserProfileService.Interfaces.dll
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\bin\Debug\net5.0\win7-x64\ref\UserProfileService.Interfaces.dll
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\bin\Debug\net5.0\win7-x64\UserProfileService.Interfaces.pdb
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\obj\Debug\net5.0\win7-x64\UserProfileService.Interfaces.csproj.AssemblyReference.cache
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\obj\Debug\net5.0\win7-x64\UserProfileService.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\obj\Debug\net5.0\win7-x64\UserProfileService.Interfaces.AssemblyInfoInputs.cache
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\obj\Debug\net5.0\win7-x64\UserProfileService.Interfaces.AssemblyInfo.cs
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\obj\Debug\net5.0\win7-x64\UserProfileService.Interfaces.csproj.CoreCompileInputs.cache
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\obj\Debug\net5.0\win7-x64\UserProfileService.Interfaces.dll
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\obj\Debug\net5.0\win7-x64\ref\UserProfileService.Interfaces.dll
+C:\Data\Gulit\Dev\.NET\AdBro\MyApplication\UserProfileService.Interfaces\obj\Debug\net5.0\win7-x64\UserProfileService.Interfaces.pdb

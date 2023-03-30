@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserInterestsAPIService\\UserInterestsAPIService.csproj": {}
+  },
+  "projects": {
+    "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserInterestsAPIService\\UserInterestsAPIService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserInterestsAPIService\\UserInterestsAPIService.csproj",
+        "projectName": "UserInterestsAPIService",
+        "projectPath": "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserInterestsAPIService\\UserInterestsAPIService.csproj",
+        "packagesPath": "C:\\Users\\gulit.habibi\\.nuget\\packages\\",
+        "outputPath": "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserInterestsAPIService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gulit.habibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserProfileService.Interfaces\\UserProfileService.Interfaces.csproj": {
+                "projectPath": "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserProfileService.Interfaces\\UserProfileService.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Actors": {
+              "target": "Package",
+              "version": "[6.1.1583, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserProfileService.Interfaces\\UserProfileService.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserProfileService.Interfaces\\UserProfileService.Interfaces.csproj",
+        "projectName": "UserProfileService.Interfaces",
+        "projectPath": "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserProfileService.Interfaces\\UserProfileService.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\gulit.habibi\\.nuget\\packages\\",
+        "outputPath": "C:\\Data\\Gulit\\Dev\\.NET\\AdBro\\MyApplication\\UserProfileService.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gulit.habibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.ServiceFabric.Actors": {
+              "target": "Package",
+              "version": "[6.1.1583, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
